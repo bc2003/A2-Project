@@ -1,4 +1,4 @@
-# A2-Project
+# Loan Approval Amount Analysis
 
 ❔This project aimed to explore what predictor variables were most significant in predicting for the monetary value of approved loans. All analytics and visualizations were done using R (especially ggplot2).
 
